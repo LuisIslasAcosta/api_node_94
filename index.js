@@ -1,1 +1,1 @@
-console.log("¡Hola, mundo comit 5!");
+console.log("¡Hola, mundo comit 6!");
